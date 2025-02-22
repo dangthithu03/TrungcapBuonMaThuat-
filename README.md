@@ -6,7 +6,9 @@ Trước đây, nhà trường chủ yếu đào tạo lái xe hạng B. Hiện 
 🔹 Hệ trung cấp:
 
    Công nghệ Kỹ thuật Ô tô
+   
    Kỹ thuật Chế biến Món ăn
+   
    Dịch vụ Chăm sóc Gia đình
    
 🔹 Đào tạo thường xuyên:
