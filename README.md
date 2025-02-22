@@ -1,52 +1,19 @@
 # TrungcapBuonMaThuat
-GIỚI THIỆU TRƯỜNG TRUNG CẤP BUÔN MA THUỘT
-Trường Trung cấp Buôn Ma Thuột là đơn vị đào tạo chuyên nghiệp, cung cấp các chương trình học chất lượng cao, đáp ứng nhu cầu nhân lực trong khu vực và trên cả nước. Với đội ngũ giảng viên giàu kinh nghiệm, chương trình đào tạo thực tiễn và hệ thống cơ sở vật chất hiện đại, nhà trường cam kết mang đến môi trường học tập tốt nhất cho học viên.
+Trường Trung cấp Buôn Ma Thuột được cấp Giấy chứng nhận đăng ký hoạt động giáo dục nghề nghiệp vào ngày 24/01/2025, căn cứ theo Quyết định số 848/QĐ-UBND của Chủ tịch UBND tỉnh Đắk Lắk về việc thành lập Trường Trung cấp Nghề Bình Minh và Quyết định số 339/QĐ-UBND về việc đổi tên thành Trường Trung cấp Buôn Ma Thuột.
 
-🔹 Hệ Trung cấp:
+Trước đây, nhà trường chủ yếu đào tạo lái xe hạng B. Hiện nay, với định hướng phát triển mới, Trường Trung cấp Buôn Ma Thuột đã mở rộng quy mô đào tạo và đăng ký hoạt động giáo dục nghề nghiệp với các ngành chính:
+
+🔹 Hệ trung cấp:
+
 Công nghệ Kỹ thuật Ô tô
 Kỹ thuật Chế biến Món ăn
 Dịch vụ Chăm sóc Gia đình
 🔹 Đào tạo thường xuyên:
-Lái xe hạng B (khai giảng thường xuyên)
-THÔNG TIN LIÊN HỆ
-📍 Địa chỉ: 131 Phan Huy Chú, Phường Khánh Xuân, TP. Buôn Ma Thuột, Đắk Lắk
-📞 Điện thoại: 0262 368 5533
-📧 Email: trungcapbuonmathuot@gmail.com
-🌐 Website: bmtc.edu.vn
 
-🔹 Thông báo tuyển sinh
-Tuyển sinh hệ trung cấp năm 2025
-Tuyển sinh liên tục học viên lái xe hạng B
-Tuyển sinh hệ sơ cấp
-🔹 Thông tin tuyển dụng
-Giáo viên
-Nhân viên kế toán
-💡 Hỗ trợ tư vấn – Hỏi đáp
-📚 Tài liệu học tập & Chương trình đào tạo
-🏛️ Cơ sở vật chất hiện đại
-
-👉 Truy cập ngay website bmtc.edu.vn để biết thêm chi tiết! 🚗🎓🍽️
-
+Lái xe hạng B
 Với đội ngũ giảng viên giàu kinh nghiệm, chương trình đào tạo thực tiễn và môi trường học tập hiện đại, Trường Trung cấp Buôn Ma Thuột cam kết mang đến chất lượng đào tạo tốt nhất, đáp ứng nhu cầu nhân lực trong khu vực và cả nước.
 
-About
-Với đội ngũ giảng viên giàu kinh nghiệm, chương trình đào tạo thực tiễn và môi trường học tập hiện đại, Trường Trung cấp Buôn Ma Thuột cam kết mang đến chất lượng đào tạo tốt nhất, đáp ứng nhu cầu nhân lực trong khu vực và cả nước.
+📍 Địa chỉ: Số 131 Phan Huy Chú, Phường Khánh Xuân, Thành phố Buôn Ma Thuột, Tỉnh Đắk Lắk
+📞 Hotline: 0262.368.5566
+🌐 Website:www.bmtc.edu.vn
 
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-HTML
-100.0%
-Footer
